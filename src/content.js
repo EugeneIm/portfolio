@@ -96,8 +96,8 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "immer277@gmail.com",
-  YOUR_FONE: "(778)859-7089",
+  YOUR_EMAIL: "lorem@gmail.com",
+  YOUR_FONE: "(122)456-7911",
   description:
     "I might be very late contacting you back, maybe even just forget to but hopefully I can get back to you soon",
   YOUR_SERVICE_ID: "service_id",
@@ -106,7 +106,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com/EugeneIm",
+  github: "https://github.com/",
   twitter: "https://twitter.com",
   monster: "https://www.monsterenergy.com/",
 };
