@@ -1,7 +1,7 @@
 const logotext = "🖥";
 const meta = {
   title: "Eugene I.",
-  description: "I’m Eugene Im, currently a student at BCIT in the SSD program.",
+  description: "I’m Eugene Im, currently an unemployed software developer.",
 };
 
 const introdata = {
@@ -12,7 +12,7 @@ const introdata = {
     third: "I develop web apps",
   },
   description:
-    "Right now I am a student at the British Columbia Institute of Technology in the SSD program.",
+    "Right now I am looking to find a job where I can work with software whether hybrid, remote, or on-site in my area.",
   your_img_url:
     "https://i.pinimg.com/564x/69/24/ec/6924ec3771635f917e9cea844abfbce1.jpg",
 };
